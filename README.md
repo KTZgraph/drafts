@@ -7,3 +7,6 @@ https://codesandbox.io/dashboard/sandboxes/?workspace=8bf4b60f-7e01-4f33-b5c4-7e
 
 #### 2. React CRA @monaco-editor/react JSON editor +  Validation
 - https://codesandbox.io/s/react-cra-react-monaco-editor-json-validation-tkj0jl
+
+#### 3. table flexible number of heders and rows
+https://codesandbox.io/s/flexiible-datatable-ym9u30
