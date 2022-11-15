@@ -15,4 +15,4 @@ https://codesandbox.io/dashboard/sandboxes/?workspace=8bf4b60f-7e01-4f33-b5c4-7e
 - https://codesandbox.io/s/react-capslock-shift-texarea-extra-letters-focus-7fk31j
 
 
-# Python sandbox https://pythonsandbox.com/
+# Python sandbox https://replit.com/
